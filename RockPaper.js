@@ -10,12 +10,12 @@ function getComputerChoice() {
     }
 }
 
-// STEP 3: The logic to get the human choice
-function getHumanChoice() {
-    return prompt("Enter your choice: rock, paper or scissors");
-    // console.log("You entered: " + humanValue);
-    //return humanValue; // Return the user's input
-}
+// // STEP 3: The logic to get the human choice
+// function getHumanChoice() {
+//     return prompt("Enter your choice: rock, paper or scissors");
+//     // console.log("You entered: " + humanValue);
+//     //return humanValue; // Return the user's input
+// }
 
 // STEP 3: The logic to get the human choice
 function getHumanChoice() {
